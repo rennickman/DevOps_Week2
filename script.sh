@@ -12,5 +12,7 @@ touch fol_2/2_1.txt
 touch fol_2/2_2.txt
 touch fol_2/2_3.txt
 
-
+chmod 600 fol_*/*_1.txt
+chmod 600 fol_*/*_3.txt
+chmod 777 fol_*/*_2.txt
 
