@@ -16,3 +16,4 @@ chmod 600 fol_*/*_1.txt
 chmod 600 fol_*/*_3.txt
 chmod 777 fol_*/*_2.txt
 
+echo "Job completed"
